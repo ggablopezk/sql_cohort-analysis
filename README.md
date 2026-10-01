@@ -234,7 +234,7 @@ ORDER BY cr.cohort_year, month_from_first_purchase;
 
 ### 4. Retention and risk per customer (3, 4)
 
-![Monthly retention by cohort](assets/03_retention_curve.png)
+![Average monthly retention by cohort and year of life](assets/03_retention_curve.png)
 
 - **Query 3:** out of 49,487 customers, 55.7% have insufficient history (they bought only once), 34.3% are Active and 10% are At Risk.
 - Among those who can be evaluated (21,939), 22.6% are At Risk.

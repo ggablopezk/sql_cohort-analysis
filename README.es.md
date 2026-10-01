@@ -234,7 +234,7 @@ ORDER BY cr.cohort_year, month_from_first_purchase;
 
 ### 4. Retención y riesgo por cliente (3, 4)
 
-![Retención mensual por cohorte](assets/03_retention_curve.png)
+![Retención mensual promedio por cohorte y año de vida](assets/03_retention_curve.png)
 
 - **Query 3:** de 49.487 clientes, 55,7% tiene historial insuficiente (compraron en una sola ocasión), 34,3% Active y 10% At Risk.
 - Entre los que se pueden evaluar (21.939), el 22,6% está At Risk.
